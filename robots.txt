@@ -1,1 +1,4 @@
+User-agent: *
+Disallow: /road-signs/
+
 Sitemap: https://osmlatvija.github.io/zulip-archive/sitemap.xml
